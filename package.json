@@ -1,0 +1,28 @@
+{
+  "name": "@ds-javascript/doubly-linked-list",
+  "version": "1.0.0",
+  "description": "This is Doubly Linked list Data structure in javascript",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensourcedj217/JSDoublyLinkedList"
+  },
+  "keywords": [
+    "javascript ds",
+    "doubly linked list",
+    "doubly linked list es6",
+    "doubly linked list js",
+    "linked list",
+    "linked list es6",
+    "linked list js",
+    "javascript data structure"
+  ],
+   "author": "Dhananjay Chaudhari <opensourcedj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opensourcedj217/JSDoublyLinkedList/issues"
+  },
+  "homepage": "https://github.com/opensourcedj217/JSDoublyLinkedList#readme"
+}
